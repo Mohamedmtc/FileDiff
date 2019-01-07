@@ -13,7 +13,7 @@ on the official Visual Studio extension gallery.
 
 ## 1.1
 
-- [x] Compare any file in Solution Explorer with anther located on disk;
+- [x] Compare any file in Solution Explorer with anther located on disk or in VS Solution Explorer;
 
 ## 1.0
 

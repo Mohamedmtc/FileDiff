@@ -15,9 +15,9 @@ See the [change log](CHANGELOG.md) for changes and road map.
 
 ## Features
 
-- Compare Two Files in Solution Explorer
+- Compare Two Files in Solution Explorer and outside the source control
 
-### Files Comapre
+### Files Comapre in source control
 -Select two files in solution explorer
 -then Right-Click  
 ![context Menu](art/Context-Menu.jpg)
@@ -25,6 +25,18 @@ See the [change log](CHANGELOG.md) for changes and road map.
 - then select "Comapre Files ..."  to see the Diff View
 
 ![in Action](art/inAction.jpg)
+
+### Files Comapre in source control
+-Select single file in solution explorer
+-then Right-Click  
+![context Menu single file](art/Context-Menu-singlefile.jpg)
+
+- then select "Comapre Files ..."  to open file dialog and select the anther file
+
+![in Action single file](art/inAction-singlefile.jpg)
+
+
+
 ## Contribute
 Check out the [contribution guidelines](CONTRIBUTING.md)
 if you want to contribute to this project.

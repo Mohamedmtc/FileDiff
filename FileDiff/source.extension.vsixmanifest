@@ -2,8 +2,8 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="8f02892f-4dfd-46cc-9be3-5f670b22061a" Version="1.1" Language="en-US" Publisher="Mohamed Ebrahim Atia" />
-        <DisplayName>FileDiff</DisplayName>
-        <Description xml:space="preserve">compare files as source control comapre tool</Description>
+        <DisplayName>File Difference</DisplayName>
+        <Description xml:space="preserve">compare files as source control comapre tool </Description>
         <MoreInfo>https://github.com/Mohamedmtc/FileDiff</MoreInfo>
         <License>Resources\LICENSE</License>
         <Icon>Resources\icon.png</Icon>
