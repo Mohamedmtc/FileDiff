@@ -1,7 +1,6 @@
 # Road map
 
-- [x] Compare Two files in Solution Explorer
-- [ ] nothing yet;
+- [ ] More comming on.
 
 Features that have a checkmark are complete and available for
 download in the
@@ -13,6 +12,8 @@ These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
 ## 1.1
+
+- [x] Compare any file in Solution Explorer with anther located on disk;
 
 ## 1.0
 
