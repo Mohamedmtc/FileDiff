@@ -20,20 +20,20 @@ See the [change log](CHANGELOG.md) for changes and road map.
 ### Files Comapre in source control
 -Select two files in solution explorer
 -then Right-Click  
-![context Menu](art/Context-Menu.jpg)
+![context Menu1](art/Context-Menu1.jpg)
 
 - then select "Comapre Files ..."  to see the Diff View
 
-![in Action](art/inAction.jpg)
+![in Action1](art/inAction1.jpg)
 
 ### Files Comapre in source control
 -Select single file in solution explorer
 -then Right-Click  
-![context Menu single file](art/Context-Menu-singlefile.jpg)
+![context Menu single file1](art/Context-Menu-singlefile1.jpg)
 
 - then select "Comapre Files ..."  to open file dialog and select the anther file
 
-![in Action single file](art/inAction-singlefile.jpg)
+![in Action single file1](art/inAction-singlefile1.jpg)
 
 
 
