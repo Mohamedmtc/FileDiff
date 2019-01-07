@@ -1,7 +1,8 @@
 # Compare Tool
 
 <!-- Replace this badge with your own-->
-[![Build status](https://ci.appveyor.com/api/projects/status/hv6uyc059rqbc6fj?svg=true)](https://ci.appveyor.com/project/madskristensen/extensibilitytools)
+[![Build status](https://ci.appveyor.com/api/projects/status/81ett8n8y9tqp7ln?svg=true)](https://ci.appveyor.com/project/MohamedEbrahimAtia/filediff)
+
 
 <!-- Update the VS Gallery link after you upload the VSIX-->
 Download this extension from the [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/[GuidFromGallery])
