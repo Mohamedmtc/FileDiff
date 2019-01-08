@@ -14,10 +14,8 @@ namespace FileDiff
     {
         public const string guidFileDiffCommandPackageString = "24c3953b-9c3e-4689-9a9e-c64981962abc";
         public const string guidFileDiffCommandPackageCmdSetString = "dc74d78f-f5fa-4944-a3bd-b621c50ba12b";
-        public const string guidImagesString = "be2f872c-ca9f-4959-b3ea-b5f7b6182057";
         public static Guid guidFileDiffCommandPackage = new Guid(guidFileDiffCommandPackageString);
         public static Guid guidFileDiffCommandPackageCmdSet = new Guid(guidFileDiffCommandPackageCmdSetString);
-        public static Guid guidImages = new Guid(guidImagesString);
     }
     /// <summary>
     /// Helper class that encapsulates all CommandIDs uses across VS Package.
@@ -26,6 +24,5 @@ namespace FileDiff
     {
         public const int MyMenuGroup = 0x1020;
         public const int FileDiffCommandId = 0x0100;
-        public const int bmpPic1 = 0x0001;
     }
 }
